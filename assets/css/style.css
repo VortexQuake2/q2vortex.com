@@ -1,0 +1,25 @@
+@font-face { font-family: serif; }
+
+@font-face { font-family: serif; }
+
+img { float: left; height: 2em; }
+
+.menu { background-color: #303030; color: #f8f8f8; list-style-type: none; display: flex; font-family: arial; font-size: 1.5em; margin: 0; }
+
+.menuitem { margin: auto 5% auto 0; }
+
+.content { margin-left: 15%; margin-right: 15%; }
+
+body { background-color: #f8f8f8; margin: 0; padding: 0; font-family: arial; font-size: 1.2em; text-align: left; }
+
+.header { overflow: auto; text-align: left; display: block; width: 100%; margin: 0; }
+
+a:link { color: #00a876; }
+
+a:visited { color: #207e62; }
+
+hr { border: 0; margin: 0; box-shadow: 0 1em 1em -1em #444444 inset; height: 1em; }
+
+@media (prefers-color-scheme: dark) { body { background-color: #404040; color: #f8f8f8; } }
+
+/*# sourceMappingURL=style.css.map */
